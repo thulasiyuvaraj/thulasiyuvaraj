@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Sabari%20Yuhendhran%20M&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6495ED&text=THULASI%20Y&textBg=false&descAlign=50&descAlignY=57&fontColor=F5F5F5&animation=blinking&fontAlign=50&fontAlignY=42&strokeWidth=2&stroke=4169E1&rotate=0&fontSize=0&desc=Full-Stack%20Developer|Machine%20Learning%20Engineer&descSize=0" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C45F7&background=C9C9C900&width=435&lines=Building%2C+breaking%2C+and+Active+learner" alt="Typing SVG" />
 
 </div>
 
