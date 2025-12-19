@@ -149,16 +149,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabariyuhendh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thulasiyuvaraj&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
 
 </div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thulasiyuvaraj/thulasiyuvaraj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thulasiyuvaraj/thulasiyuvaraj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thulasiyuvaraj/thulasiyuvaraj/output/github-snake.svg" />
 </picture>
 
 </div>  
@@ -169,7 +169,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=thulasiyuvaraj&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
