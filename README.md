@@ -127,8 +127,8 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 3 | 1376 |
-| **CodeChef** | 599 | 910 |
+| **LeetCode** | 400+| 1376 |
+| **CodeChef** | 599+ | 910 |
 | **CodeForces** | 2 | - |
 | **GeeksForGeeks** | - | - |
 
