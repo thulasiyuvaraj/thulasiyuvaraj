@@ -129,7 +129,7 @@
 |----------|----------------|------------|
 | **LeetCode** | 400+| 1376 |
 | **CodeChef** | 599+ | 910 |
-| **CodeForces** | 2 | - |
+| **CodeForces** | 10 | - |
 | **GeeksForGeeks** | - | - |
 
 ##  GitHub Analytics
