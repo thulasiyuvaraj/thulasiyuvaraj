@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6495ED&text=THULASI%20Y&textBg=false&descAlign=50&descAlignY=57&fontColor=F5F5F5&animation=blinking&fontAlign=50&fontAlignY=42&strokeWidth=2&stroke=4169E1&rotate=0&fontSize=0&desc=Full-Stack%20Developer|Machine%20Learning%20Engineer&descSize=0" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6495ED&text=THULASI%20Y&textBg=false&descAlign=50&descAlignY=57&fontColor=F5F5F5&animation=blinking&fontAlign=50&fontAlignY=42&strokeWidth=2&stroke=4169E1&rotate=0&fontSize=0&desc=Learning%20Data%20Engineering|Building%20Data%20Pipelines%20&descSize=0" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C45F7&background=C9C9C900&width=435&lines=Building%2C+breaking%2C+and+Active+learner" alt="Typing SVG" />
 
