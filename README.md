@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
- passionate Full Stack Developer and Machine Learning Engineer who builds complete web applications with intelligent, data-driven features. I work on both front-end and back-end development and also design machine learning models to solve real-world problems. I enjoy collaborating with teams to create scalable, smart, and user-friendly applications.
+Aspiring Data Engineer passionate about building data pipelines, processing large datasets, and transforming raw data into meaningful insights. Currently learning Python, SQL, ETL, and data engineering tools to build scalable, data-driven solutions. 🚀
 
 </div>  
 
