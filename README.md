@@ -130,7 +130,7 @@ Aspiring Data Engineer passionate about building data pipelines, processing larg
 | **LeetCode** | 400+| 1376 |
 | **CodeChef** | 599+ | 910 |
 | **CodeForces** | 10 | - |
-| **GeeksForGeeks** | - | - |
+| **GeeksForGeeks** | 09 | - |
 
 ##  GitHub Analytics
 
