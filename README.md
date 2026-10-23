@@ -123,7 +123,7 @@ Aspiring Data Engineer passionate about building data pipelines, processing larg
 
 ##  DSA & Problem Solving Achievements
 
-###  **1207+ Problems Solved Across Platforms**
+###  **1222+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
